@@ -120,7 +120,7 @@ public class HipsterPanel extends JPanel
 	private void setupPanel()
 	{
 		this.setLayout(baseLayout);
-		this.setBackground(Color.ORANGE);
+		this.setBackground(Color.GREEN);
 		this.add(phraseComboBox);
 		this.add(bookAuthorLabel);
 		this.add(bookPageCountLabel);

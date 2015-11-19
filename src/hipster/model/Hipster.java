@@ -42,7 +42,7 @@ public class Hipster
 		secondBook.setPageCount(384);
 		secondBook.setPrice(5.99);
 		
-		thirdBook = new Book(374, "Suzanne Collins", "The Hunger Games", "Dystopain", 6.99);
+		thirdBook = new Book(374, "Suzanne Collins", "Dystopian", "The Hunger Games", 6.99);
 		
 		hipsterBooks[0] = firstBook;
 		hipsterBooks[1] = secondBook;
