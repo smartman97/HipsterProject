@@ -4,6 +4,7 @@ public class Hipster
 {
 	private String name;
 	private String [] hipsterPhrases;
+	private Book [] hipsterBooks;
 	
 	public String getName()
 	{
