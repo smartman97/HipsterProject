@@ -19,7 +19,11 @@ public class Book
 	
 	public Book(int pageCount, String author, String subject, String title, double price)
 	{
-		
+		this.pageCount = pageCount;
+		this.author = author;
+		this.subject = subject;
+		this.title = title;
+		this.price = price;
 	}
 	
 	public int getPageCount()
